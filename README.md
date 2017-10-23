@@ -1,6 +1,6 @@
-# Keywordshitter2 - The Bulk Keyword Tool
+# Keyword Spinner - Bulk Auto-Suggest Utility
 
-An update of the beloved keyword generation tool keywordshitter.com. [Try it here.](http://wassname.github.io/keywordshitter2/).
+An update of the beloved keyword generation tool, renamed for folks in corporate environments. [Try it here.](http://wassname.github.io/keywordshitter2/).
 
 #New features:
 
@@ -11,22 +11,12 @@ An update of the beloved keyword generation tool keywordshitter.com. [Try it her
 
 ## Old-but-still-good features:
 
-- Shit theme
 - Simple
-- Humor suitable for a toddler
-- Cunningly lower user expectations to zero, then exceed them
-
-## Coming soon (TM):
-
-- Multiple services
-- Updated toilet logo
-- Less bugs
-- CPC and Volume integration possibly
-
+- No hosting required
 
 # License
 
-MIT Licence (unless blakamia says otherwise)
+MIT License
 
 # Contributing
 
@@ -34,5 +24,5 @@ Yes please.
 
 # Credits
 
-- [blakamia for being the reason we can't have nice things, and for creating the original keywordshitter](http://www.blackhatworld.com/blackhat-seo/black-hat-seo-tools/538215-free-simple-longtail-keyword-tool.html)
-- wassname - for also being terrible.
+- [blakamia for creating the original](http://www.blackhatworld.com/blackhat-seo/black-hat-seo-tools/538215-free-simple-longtail-keyword-tool.html)
+- wassname for updating to version 2.0.
