@@ -2,7 +2,7 @@
 
 An update of the beloved keyword generation tool, renamed for folks in corporate environments. [Try it here.](http://wassname.github.io/keywordshitter2/).
 
-#New features:
+## New features:
 
 - View the results as a sortable table
 - Control how the keywords are branched
